@@ -1,3 +1,21 @@
 body {
     background-color: gray;
 }
+
+h1{
+    text-align: center;  
+    margin-top: 150px;
+    float: inline-start;
+    font-size: 200px
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#aboutMe {
+    height: 200px;
+    position: relative;
+    margin: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
